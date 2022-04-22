@@ -1,4 +1,11 @@
-## Welcome to GitHub Pages
+## Vision 2045 of Verification & Validation for Autonomy
+
+Industry is developing autonomous solutions that expand the role of aviation in our daily lives and deliver faster services to society at large. Many of those new aeronautical-related services will start with humans in control; but are expected to evolve towards increasingly autonomous solutions in order to remain economically viable. The roles of humans will shift from controlling to monitoring as technical solutions rely more and more on technologies such as Artificial Intelligence, i.e., machine learning, reinforcement learning, multi-objective optimization, and planning & scheduling. The shift will be progressive and require increasingly pervasive use of runtime monitoring. Moreover, as “smarter” technologies are increasingly utilized on both ground and airborne systems, the assurance needs will also evolve. As design-time and operational safety merge together, V&V will have to expand and morph into novel runtime solutions. As the landscape of autonomy changes so does safety assurance and software V&V.
+
+The goal of this effort is to build that comprehensive list of V&V needs, develop a roadmap to achieve them, identify the services they can enable, and point to the certification gaps they fill.
+
+
+
 
 You can use the [editor on GitHub](https://github.com/huafengyu/AVVRV2045/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
