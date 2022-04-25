@@ -4,7 +4,7 @@ Industry is developing autonomous solutions that expand the role of aviation in 
 
 The goal of this effort "Vision 2045 of Verification & Validation for Autonomy" is to build that comprehensive list of V&V needs, develop a roadmap to achieve them, identify the services they can enable, and point to the certification gaps they fill. This effort will serve as support for NASA’s internal, long range, planning exercises which will inform the funding requirements that support this evolution of technology. Questions that need to be addressed include:
 1. What are the new technologies needed to enable increasingly autonomous air services? Each new technology should be accompanied by examples of services it enables.
-2. What are the limitations of current V&V capabilities with respect to these new technologies? For example, are current testing techniques sufficient for deploying MLenabled systems? Answers should consider the projected use of these technologies as well as their possible re-use in different contexts (applications, environments, and so on).
+2. What are the limitations of current V&V capabilities with respect to these new technologies? For example, are current testing techniques sufficient for deploying ML-enabled systems? Answers should consider the projected use of these technologies as well as their possible re-use in different contexts (applications, environments, and so on).
 3. Where do the current certification standards (such as DO-178C) fail to address assurance needs for these technologies or fail to take into account V&V results associated with the new technologies?
 4. What role can new certification approaches such as Overarching Properties or safety cases play in the certification of increasingly autonomous systems?
 5. What paradigm shifts in the existing regulations are necessary to implement new certification approaches?
@@ -13,11 +13,13 @@ The goal of this effort "Vision 2045 of Verification & Validation for Autonomy" 
 While the individual needs of external customers/organizations/agencies and application domains will vary greatly, they need to be identified so that the community including industry, academia and government agencies can each determine what they can address given their means and their particular focus. To identify these threads, a realistic definition of a “Vision 2045 of V&V for Autonomy” is expected to be built. This effort will involve development of a mapping from V&V needs to technologies to enabled services with a particular interest in how new V&V technologies can fill existing or anticipated gaps in the regulatory framework. Furthermore, since the increasing use of autonomy implies a shift in the role played by humans, new V&V approaches addressing the changing roles and responsibilities should be addressed. At a minimum, the aforementioned questions should be answered with defensible positions. 
 
 ## Autonomy V&V Roadmap and Vision 2045 project
-To create the Vision 2045 of V&V for Autonomy and a roadmap to achieve this vision, a collaboration team of recognized researchers from industry and academia was built, with support from government agencies:
+To create the Vision 2045 of V&V for Autonomy and a roadmap to achieve this vision, a collaboration team of recognized researchers from industry and academia was built, with support from government agencies.
+
+### The team
 - NASA Program Manager: Guillaume Brat
 - Boeing Principle Investigator: Huafeng Yu
 - Technical team
-   - Collins Aerosapce Lead: Darren Cofer
+   - Collins Aerospace Lead: Darren Cofer
    - GE Research Lead: Mike Durling
    - MIT Lead: Chuchu Fan
    - UT Austin Lead: Ufuk Topcu
@@ -28,11 +30,51 @@ To create the Vision 2045 of V&V for Autonomy and a roadmap to achieve this visi
 - NRL advisors:
 - Boeing advisors: 
 
-Expected Outcomes of this project include:
+### Team meetings
+We have regular meetings to discuss different topics of autonomy V&V:
+- Biweekly meetings: technical team members
+- Monthly meetings:  technical team members + NASA panelists
+- Quarterly meetings: technical team members + NASA panelists + all advisors
+
+### Expected Outcomes of this project include:
 - A list of the V&V technologies needed to enable the use of autonomy in aviation.
 - A mapping of the V&V needs to (possibly AI-based) technologies and the enabled services in aviation.
 - A study of the gaps in the current certification processes and an assessment of potential technologies that could fill those gaps.
 - Answers to the above six questions, and other questions deemed relevant by the proposer, including thorough justification for all answers.
 
-## Autonomy Verification & Validaton Workshop
-To support this project, an Autonomy Verification \& Validaton workshop will be held on May 23, 2022 in Boeing' El Segundo site. The participants are not limited to our project team members, but a visitor's badge is required, and should be applied 2 weeks before the workshop.
+## Autonomy Verification & Validation Workshop
+To support this project, an Autonomy Verification \& Validation workshop will be held on May 23, 2022 in Boeing' El Segundo site. The participants are not limited to our project team members, but a visitor's badge is required, and should be applied 2 weeks before the workshop.
+
+### Time of the workshop:
+May 23, 1:00-5:30pm Pacific time
+
+### Venue and access requirement
+Boeing' El Segundo site
+
+Visitor badge required (application 2 weeks before the workshop)
+
+### Schedule of the workshop
+12:00 - 1:00pm Workshop preparation
+
+1:00 - 1:10pm Project introduction
+
+1:10 - 2:20pm Project report
+
+2:20 - 2:30pm  Break
+
+2:30 - 5:30pm Deep dive discussions
+
+- 2:30 - 3:15pm Deep dive topic 1
+- 3:15 - 4:00pm Deep dive topic 2
+- 4:00 - 4:45pm Deep dive topic 3
+- 4:45 - 5:30pm Deep dive topic 4
+
+### Workshop organizers
+
+Guillaume Brat (NASA)
+
+Huafeng Yu (Boeing)
+
+Chad McFarland (Boeing)
+
+
