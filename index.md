@@ -23,7 +23,7 @@ To create the Vision 2045 of V&V for Autonomy and a roadmap to achieve this visi
    - GE Research Lead: Mike Durling
    - MIT Lead: Chuchu Fan
    - UT Austin Lead: Ufuk Topcu
-   - University of Michigan Leads: Ella Atkins \& Prashin Santosh Sharma 
+   - University of Michigan Leads: Ella Atkins & Prashin Santosh Sharma 
 - NASA panelists:
 - FAA advisors:
 - AFRL advisors:
