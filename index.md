@@ -21,7 +21,7 @@ To create the Vision 2045 of V&V for Autonomy and a roadmap to achieve this visi
    - GE Research Lead: Mike Durling
    - MIT Lead: Chuchu Fan
    - UT Austin Lead: Ufuk Topcu
-   - University of Michigan Leads: Ella Atkins \& Prashin Prashin Santosh Sharma 
+   - University of Michigan Leads: Ella Atkins \& Prashin Santosh Sharma 
 - NASA panelists:
 - FAA advisors:
 - AFRL advisors:
@@ -34,6 +34,5 @@ Expected Outcomes of this project include:
 - A study of the gaps in the current certification processes and an assessment of potential technologies that could fill those gaps.
 - Answers to the above six questions, and other questions deemed relevant by the proposer, including thorough justification for all answers.
 
-
-## Autonomy Verification \& Validaton Workshop
-To support this project, an Autonomy Verification \& Validaton workshop will be held on May 23 in Boeing El Segundo's site. The participants are not limited to our project team members, but a visitor's badge is required, and should be applied 2 weeks before the workshop.
+## Autonomy Verification & Validaton Workshop
+To support this project, an Autonomy Verification \& Validaton workshop will be held on May 23, 2022 in Boeing' El Segundo site. The participants are not limited to our project team members, but a visitor's badge is required, and should be applied 2 weeks before the workshop.
