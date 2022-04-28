@@ -1,6 +1,6 @@
 ## 2022 Autonomy Verification & Validation Workshop
 
-In order to support the development of a V&V roadmap for Autonomy, Boeing and NASA are holding an Autonomy Verification & Validation Workshop on May 23, 2022 in Boeing’ El Segundo site in California.  The workshop is open to all (industry, academics, and government). It will be held on May 23, 2022 in Boeing’s El Segundo site in California.  The workshop is open to all (industry, academics, and government). More information about the workshop (registration, agenda, location, ...) can be found [here](autonomy-verification-&-validation-workshop-information).
+In order to support the development of a V&V roadmap for Autonomy, Boeing and NASA are holding an Autonomy Verification & Validation Workshop on May 23, 2022 in Boeing’ El Segundo site in California.  The workshop is open to all (industry, academics, and government). It will be held on May 23, 2022 in Boeing’s El Segundo site in California.  The workshop is open to all (industry, academics, and government). More information about the workshop (registration, agenda, location, ...) can be found [here](autonomy-verification-and-validation-workshop-information).
 
 Due to overlapping interest, the workshop is being held just before the NASA Formal Methods (NFM) Symposium that will be held May 24-27, 2022 in Pasadena, California. 
 
@@ -48,7 +48,7 @@ We have regular meetings to discuss different topics of autonomy V&V:
 - A study of the gaps in the current certification processes and an assessment of potential technologies that could fill those gaps.
 - Answers to the above six questions, and other questions deemed relevant by the proposer, including thorough justification for all answers.
 
-## Autonomy Verification & Validation Workshop Information
+## Autonomy Verification and Validation Workshop Information
 To support this project, an Autonomy Verification \& Validation workshop will be held on May 23, 2022 in Boeing' El Segundo site. The participants are not limited to our project team members, but a visitor's badge is required, and should be applied 2 weeks before the workshop.
 
 ### Time of the workshop:
