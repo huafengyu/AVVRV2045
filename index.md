@@ -1,4 +1,10 @@
-## Vision 2045 of Verification and Validation for Autonomy
+## 2022 Autonomy Verification & Validation Workshop
+
+In order to support the development of a V&V roadmap for Autonomy, Boeing and NASA are holding an Autonomy Verification & Validation Workshop on May 23, 2022 in Boeing’ El Segundo site in California.  The workshop is open to all (industry, academics, and government). It will be held on May 23, 2022 in Boeing’s El Segundo site in California.  The workshop is open to all (industry, academics, and government). More information about the workshop (registration, agenda, location, ...) can be found [here](autonomy-verification-&-validation-workshop-information).
+
+Due to overlapping interest, the workshop is being held just before the NASA Formal Methods (NFM) Symposium that will be held May 24-27, 2022 in Pasadena, California. 
+
+## Vision 2045 of Verification & Validation for Autonomy
 
 Industry is developing autonomous solutions that expand the role of aviation in our daily lives and deliver faster services to society at large. Many of those new aeronautical-related services will start with humans in control; but are expected to evolve towards increasingly autonomous solutions in order to remain economically viable. The roles of humans will shift from controlling to monitoring as technical solutions rely more and more on technologies such as Artificial Intelligence, i.e., machine learning, reinforcement learning, multi-objective optimization, and planning & scheduling. The shift will be progressive and require increasingly pervasive use of runtime monitoring. Moreover, as “smarter” technologies are increasingly utilized on both ground and airborne systems, the assurance needs will also evolve. As design-time and operational safety merge together, V&V will have to expand and morph into novel runtime solutions. As the landscape of autonomy changes so does safety assurance and software V&V.
 
@@ -42,7 +48,7 @@ We have regular meetings to discuss different topics of autonomy V&V:
 - A study of the gaps in the current certification processes and an assessment of potential technologies that could fill those gaps.
 - Answers to the above six questions, and other questions deemed relevant by the proposer, including thorough justification for all answers.
 
-## Autonomy Verification & Validation Workshop
+## Autonomy Verification & Validation Workshop Information
 To support this project, an Autonomy Verification \& Validation workshop will be held on May 23, 2022 in Boeing' El Segundo site. The participants are not limited to our project team members, but a visitor's badge is required, and should be applied 2 weeks before the workshop.
 
 ### Time of the workshop:
