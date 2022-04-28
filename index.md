@@ -70,10 +70,10 @@ Visitor badge required (application 2 weeks before the workshop)
 
 2:30 - 5:30pm Deep dive discussions
 
-- 2:30 - 3:15pm Deep dive topic 1
-- 3:15 - 4:00pm Deep dive topic 2
-- 4:00 - 4:45pm Deep dive topic 3
-- 4:45 - 5:30pm Deep dive topic 4
+- 2:30 - 3:15pm Model-based engineering for autonomy V&V
+- 3:15 - 4:00pm Human autonomy interaction, and human factors
+- 4:00 - 4:45pm Autonomy for contingency planning
+- 4:45 - 5:30pm Standardization/regulations
 
 ### Workshop organizers
 
