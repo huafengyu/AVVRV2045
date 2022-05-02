@@ -30,11 +30,11 @@ To create the Vision 2045 of V&V for Autonomy and a roadmap to achieve this visi
    - MIT Lead: Chuchu Fan
    - UT Austin Lead: Ufuk Topcu
    - University of Michigan Leads: Ella Atkins & Prashin Santosh Sharma 
-- NASA panelists:
-- FAA advisors:
-- AFRL advisors:
-- NRL advisors:
-- Boeing advisors: 
+- NASA panelists: Aaron Dutle, Adrian Agogino, Alwyn Goodloe, Paul Miner
+- FAA advisors: George Romanski, Liz Brandli, Mike Vukas, Ritesh Ghimire, Srini Mandalapu
+- AFRL advisors: Kerianne Hobbs
+- NRL advisors: Ramesh Bharadwaj
+- Boeing advisors: Benjamin Ivers, Christina Westover, Matthew Moser, Joseph Brinker, Steven Beland, William Bosworth
 
 ### Team meetings
 We have regular meetings to discuss different topics of autonomy V&V:
@@ -52,35 +52,38 @@ We have regular meetings to discuss different topics of autonomy V&V:
 To support this project, an Autonomy Verification \& Validation workshop will be held on May 23, 2022 in Boeing' El Segundo site. The participants are not limited to our project team members, but a visitor's badge is required, and should be applied 2 weeks before the workshop.
 
 ### Time of the workshop:
-May 23, 1:00-5:30pm Pacific time
+May 23, 1:00-5:45pm Pacific time
 
 ### Venue and access requirement
-Boeing' El Segundo site
+Boeing El Segundo S30 Building
+1st Floor Tracy Center (PRS16105)
+Building S30 located adjacent to 915 North Selby St.
+El Segundo, CA 90245
 
 Visitor badge required (application 2 weeks before the workshop)
 
 ### Schedule of the workshop
-12:00 - 1:00pm Workshop preparation
+- 12:00 - 1:00pm Workshop preparation
+- 1:00 - 1:10pm Project introduction
+- 1:10 - 2:20pm Project report
+- 2:20 - 2:30pm  Break
+- 2:30 - 5:45pm Deep dive discussions
+   - 2:30 - 3:15pm Model-Based Systems Engineering (MBSE) for AI/ML, Moderator: Mike Durling (GE Research)
+   - 3:15 - 4:00pm Safety in Human-autonomy Interaction (HAI), Moderator: Chuchu Fan (MIT)
+   - 4:00 - 4:15pm Break
+   - 4:15 - 5:00pm Autonomy for Contingency Planning, Moderator: Ella Atkins (University of Michigan)
+   - 5:00 - 5:45pm Certification Guidance for AI/ML, Moderator: Darren Cofer (Collins Aerospace)
 
-1:00 - 1:10pm Project introduction
-
-1:10 - 2:20pm Project report
-
-2:20 - 2:30pm  Break
-
-2:30 - 5:30pm Deep dive discussions
-
-- 2:30 - 3:15pm Model-based engineering for autonomy V&V
-- 3:15 - 4:00pm Human autonomy interaction, and human factors
-- 4:00 - 4:45pm Autonomy for contingency planning
-- 4:45 - 5:30pm Standardization/regulations
+Details of the the deep dive discussions:
+- Model-Based Systems Engineering (MBSE) for AI/ML. In this session we will review application of Model Based Systems Engineering (MBSE) to develop and certify AI/ML for aerospace applications. The session will start with the motivation for and trend of MBSE adoption across the full product lifecycle in the aerospace domain. Next will be a discussion on how legacy model based tools and technology are being connected to support MBSE. The session will wrap up with a discussion on mapping of AI/ML use cases and tools into the MBSE process and toolchain. The session will highlight use cases, potential benefits and technology challenges associated with including AI/ML in an MBSE framework. 
+- Safety in Human-autonomy Interaction (HAI). In this session, we will review different levels of explainability of algorithms for human-autonomy interaction, as well as potential methods of ensuring safety during HAI. The session will start with the discussion on the necessary information in HAI to enhance human understanding and human-autonomy team performance. Next will be a discussion on what techniques at different levels of the computation can be used to ensure HAI safety. The session will wrap up with a discussion on mapping these techniques and levels into the case studies and design processes we care about in this project.
+- Autonomy for Contingency Planning. Contingency management plays a critical role in Aerospace system safety. This session will begin with a brief overview of essential contingency management functions. We will overview contingency management functional requirements and present progress toward prognostics-informed decision systems. We will then discuss map-based emergency landing site selection and planning to improve safety for Advanced Air Mobility (AAM) operations expected to occur at low altitudes over and near densely populated regions.  We will conclude with a discussion of verification and validation challenges associated with autonomy for contingency management. 
+- Certification Guidance for AI/ML. In this session we will review emerging certification guidance for the AL/ML technologies that may be used in autonomous aircraft.  We will start with the rationale and methods for detecting unintended behavior in airborne software as defined in current certification processes, and the challenges presented for AI/ML.  EASA has initiated work to address these challenges, including a roadmap for the gradual certification and deployment of AI/ML technologies in applications with increasing levels of criticality.  The SAE G34 / EUROCAE WG114 joint committee is moving forward to produce industry consensus certification guidance that is intended to address the challenges posed by AI/ML, enabling its use in increasingly autonomous aircraft.  
 
 ### Workshop organizers
 
-Guillaume Brat (NASA)
-
-Huafeng Yu (Boeing)
-
-Chad McFarland (Boeing)
+- Guillaume Brat (NASA)
+- Huafeng Yu (Boeing)
+- Chad McFarland (Boeing)
 
 
