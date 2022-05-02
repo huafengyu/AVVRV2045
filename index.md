@@ -51,13 +51,18 @@ We have regular meetings to discuss different topics of autonomy V&V:
 ## Autonomy Verification and Validation Workshop Information
 To support this project, an Autonomy Verification \& Validation workshop will be held on May 23, 2022 in Boeing' El Segundo site. The participants are not limited to our project team members, but a visitor's badge is required, and should be applied 2 weeks before the workshop.
 
-### Time of the workshop:
+### Time of the workshop
+
 May 23, 1:00-5:45pm Pacific time
 
 ### Venue and access requirement
+
 Boeing El Segundo S30 Building
+
 1st Floor Tracy Center (PRS16105)
+
 Building S30 located adjacent to 915 North Selby St.
+
 El Segundo, CA 90245
 
 Visitor badge required (application 2 weeks before the workshop)
