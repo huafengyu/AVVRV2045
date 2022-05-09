@@ -55,6 +55,10 @@ To support this project, an Autonomy Verification \& Validation workshop will be
 
 May 23, 1:00-5:45pm Pacific time
 
+### Registration
+
+Registration is required to attend the workshop. Please send an email to Huafeng Yu (huafeng.yu@boeing.com) for registration with your full legal name and also indicate if a parking place is needed.
+
 ### Venue and access requirement
 
 Boeing El Segundo S30 Building
